@@ -1788,8 +1788,8 @@ body{font-family:'Roboto Slab',arial,serif}h1,h2,h3,h4,h5,h6{font-family:'Roboto
 
   &.pause {
     background:transparent url('img/pause.png') center center no-repeat;
-  } 
-  
+  }
+
   &.play {
     background:transparent url('img/play.png') center center no-repeat;
   }
@@ -1804,7 +1804,8 @@ body{font-family:'Roboto Slab',arial,serif}h1,h2,h3,h4,h5,h6{font-family:'Roboto
 }
 
 .st-content-video .caption .text h3{
-  margin-top:0
+  margin-top: 0;
+  margin-left: 30px;
 }
 
 .mobile .st-content-video .video-container{
